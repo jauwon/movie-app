@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/jauwon/movie-app.git/static/css/main.418a9734.css",
+    "main.js": "/jauwon/movie-app.git/static/js/main.f20b3eeb.js",
+    "static/js/787.7c42db31.chunk.js": "/jauwon/movie-app.git/static/js/787.7c42db31.chunk.js",
+    "static/media/logo.svg": "/jauwon/movie-app.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/jauwon/movie-app.git/index.html",
+    "main.418a9734.css.map": "/jauwon/movie-app.git/static/css/main.418a9734.css.map",
+    "main.f20b3eeb.js.map": "/jauwon/movie-app.git/static/js/main.f20b3eeb.js.map",
+    "787.7c42db31.chunk.js.map": "/jauwon/movie-app.git/static/js/787.7c42db31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.418a9734.css",
+    "static/js/main.f20b3eeb.js"
+  ]
+}
